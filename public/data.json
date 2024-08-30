@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "category": "Electronics",
+      "price": 299.99,
+      "brand": "Brand A",
+      "description": "Description of Product 1...",
+      "rating": 4.5,
+      "discount": 10,
+      "slug": "product-1",
+      "meta_description": "Meta description for Product 1...",
+      "image": "/images/product1.jpg",
+      "color": "Black",
+      "special_offer": "On Sale",
+      "tags": ["Electronics", "USB", "Games"]
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "category": "Clothing",
+      "price": 49.99,
+      "brand": "Brand B",
+      "description": "Description of Product 2...",
+      "rating": 3.8,
+      "discount": 20,
+      "slug": "product-2",
+      "meta_description": "Meta description for Product 2...",
+      "image": "/images/product2.jpg",
+      "color": "Blue",
+      "special_offer": "Free Shipping",
+      "tags": ["Clothing"]
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "category": "Home & Kitchen",
+      "price": 199.99,
+      "brand": "Brand C",
+      "description": "Description of Product 3...",
+      "rating": 4.2,
+      "discount": 15,
+      "slug": "product-3",
+      "meta_description": "Meta description for Product 3...",
+      "image": "/images/product3.jpg",
+      "color": "Red",
+      "special_offer": "Big Deals",
+      "tags": ["Home & Kitchen"]
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "category": "Sports",
+      "price": 99.99,
+      "brand": "Brand D",
+      "description": "Description of Product 4...",
+      "rating": 4.0,
+      "discount": 5,
+      "slug": "product-4",
+      "meta_description": "Meta description for Product 4...",
+      "image": "/images/product4.jpg",
+      "color": "Green",
+      "special_offer": "Shop Mall",
+      "tags": ["Sports"]
+    }
+   ]
+}
